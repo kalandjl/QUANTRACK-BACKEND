@@ -16,3 +16,7 @@
 
 * [Super Simple Oauth, JWT, &amp; General Authentication Guide— FastAPI Documentation](https://fastapi.tiangolo.com/tutorial/security/first-steps/)
 * [Understanding Oauth2](https://medium.com/web-security/understanding-oauth2-a50f29f0fbf7)
+
+#### Frontend Repo
+
+* (https://github.com/kalandjl/QUANTRACK-FRONTEND)
